@@ -4,7 +4,7 @@
 <div align="center">
   <img width="100%" alt="real-circuit" src="https://github.com/user-attachments/assets/34bc7113-d394-4c1c-a609-1f43ba9830c4" />
 </div>
-<br> 
+<br>
 
 Đây là một dự án thiết kế phần cứng số, bao gồm việc mô phỏng và chế tạo một hệ thống đèn giao thông cơ bản được tích hợp bộ đếm ngược và cơ chế cảnh báo vi phạm. Điểm nổi bật của dự án là toàn bộ mạch được thiết kế hoàn toàn bằng các IC số cơ bản, **không sử dụng bất kỳ vi điều khiển hoặc bo mạch Arduino nào**.
 
